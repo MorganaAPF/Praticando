@@ -1,6 +1,8 @@
 """Exercício: Análise de Dados de Clientes
 
-Você trabalha em uma empresa de e-commerce e sua tarefa é analisar a lista de clientes que realizaram compras em dois períodos diferentes. Você tem duas listas: uma com clientes que compraram em janeiro e outra com clientes que compraram em fevereiro. Você deve identificar clientes que:
+Você trabalha em uma empresa de e-commerce e sua tarefa é analisar a lista de clientes que realizaram compras em dois períodos 
+diferentes. Você tem duas listas: uma com clientes que compraram em janeiro e outra com clientes que compraram em fevereiro. Você deve
+identificar clientes que:
 
 Compraram em ambos os meses.
 Compraram apenas em janeiro.
